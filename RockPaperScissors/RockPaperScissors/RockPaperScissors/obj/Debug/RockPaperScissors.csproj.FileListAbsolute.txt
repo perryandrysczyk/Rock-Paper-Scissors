@@ -1,0 +1,6 @@
+C:\Users\Perry\Documents\visual studio projects\convertStuff\RockPaperScissors\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\Perry\Documents\visual studio projects\convertStuff\RockPaperScissors\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\Perry\Documents\visual studio projects\convertStuff\RockPaperScissors\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\Perry\Documents\visual studio projects\convertStuff\RockPaperScissors\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojResolveAssemblyReference.cache
+C:\Users\Perry\Documents\visual studio projects\convertStuff\RockPaperScissors\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\Perry\Documents\visual studio projects\convertStuff\RockPaperScissors\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
